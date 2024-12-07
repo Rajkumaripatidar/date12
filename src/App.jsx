@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+       <img src="https://exoticflora.in/cdn/shop/products/1_5ac8a2cb-21a4-4a07-97dc-f3ad1ae36ea4.jpg?v=1499122165" height="300rem" width="300rem"></img>
     </>
   )
 }
